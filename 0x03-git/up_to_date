@@ -1,2 +1,5 @@
 git pull
+<<<<<<< HEAD
 git merge
+=======
+>>>>>>> update_script
